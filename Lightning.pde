@@ -39,7 +39,7 @@ void mousePressed()
   endX = 0;
   endY = 0;
   background(255);
+  addRect();
   draw();
   weight++;
-  addRect();
 }
